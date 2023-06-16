@@ -1,2 +1,2 @@
-# fairways payroll system using PHP as backend
-#Under development
+# Fairways payroll system using PHP as backend
+#Ongoing Project
